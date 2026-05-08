@@ -4,24 +4,24 @@ A full-stack Hospital Management System developed using Spring Boot, React, MySQ
 
 ---
 
-## Screenshots
+# Screenshots
 
-### Login Page
+## Login Page
 ![Login Page](screenshots/Login_Page.png)
 
-### Dashboard
+## Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
-### Doctors Page
+## Doctors Page
 ![Doctors Page](screenshots/Doctors_Page.png)
 
-### Patients Page
+## Patients Page
 ![Patients Page](screenshots/Patients_Page.png)
 
-### Appointments Page
+## Appointments Page
 ![Appointments Page](screenshots/Appointments_Page.png)
 
-### Swagger UI
+## Swagger UI
 ![Swagger UI 1](screenshots/Swagger1.png)
 ![Swagger UI 2](screenshots/Swagger2.png)
 
